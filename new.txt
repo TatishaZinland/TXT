@@ -1,0 +1,5 @@
+name: Tatisha Zinland
+age: 36
+pets: 1
+salary: 1000
+
